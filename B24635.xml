@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Enquiry after Plain-dealing, who is said to have forsaken most  parts of the world above a thousand years with a defence thereof against all its enemies and opposers, whether they be parasites, sycophants, pharisees, hypocrites, dissemblers, tale-bearers, whisperers, and the whole tribe of Judas.</title>
+         </titleStmt>
+         <extent>Approx. 58KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24635</idno><idno type="EEBO-CITATION">31355198</idno>
+  <idno type="VID">205870</idno>
+  <idno type="EEBO-PROQUEST">2240871551</idno>
+  
+            <idno type="STC">Wing I210</idno>
+            <idno type="OCLC">31355198</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Enquiry after Plain-dealing, who is said to have forsaken most  parts of the world above a thousand years with a defence thereof against all its enemies and opposers, whether they be parasites, sycophants, pharisees, hypocrites, dissemblers, tale-bearers, whisperers, and the whole tribe of Judas.</title>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A defense of Plain-dealing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Honesty.</term>
+               <term type="topical_term">Integrity.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205870:1"/>
+            <pb facs="tcp:205870:1"/>
+            <p>AN ENQUIRY AFTER Plain-Dealing; Who is said to have forsaken most Parts of the World above a Thousand Years.</p>
+            <p>WITH A DEFENCE thereof against all its Enemies and Opposers; Whether they be <hi>Parasites, Sycophants, Pharisees, Hy<g ref="char:EOLhyphen"/>pocrites, Dissemblers, Tale-bearers, Whisperers,</hi> and the whole Tribe of <hi>Judas.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Ecclus. 21.15.</hi>
+               </bibl>
+               <p>If a skilful man hear a wise word, he will commend it, and add unto it: But as soon as one of no understanding heareth it, it displeaseth him, and he casteth it behind his back.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for the Author, MDCLXXXIX.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:205870:2"/>
+            <p>Licensed,</p>
+            <p>
+               <hi>February</hi> the 8th, 1688/9;.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205870:2"/>
+            <head>A DEFENCE OF PLAIN-DEALING.</head>
+            <p>TO write of <hi>Plain-dealing,</hi> in an Age wherein <hi>Double-dealing</hi> is as common in <hi>Christendom</hi> as in any other part of the World, (if not more than in some) and is all the year long as frequent as the fall of Leaves in <hi>Autumn,</hi> is at best but a bold ad<g ref="char:EOLhyphen"/>venture; especially for one, who is the unablest of a thousand, the unworthiest of ten thousand.</p>
+            <p>Some will say it is <hi>rashness;</hi> some will call it <hi>rusti<g ref="char:EOLhyphen"/>city</hi> or <hi>rudeness;</hi> some will condemn it as <hi>madness;</hi> and most will judge it to be <hi>folly</hi> and <hi>weakness:</hi> but however. I despair not of finding some such as are Lo<g ref="char:EOLhyphen"/>vers of <hi>Truth</hi> more than of <hi>Tales,</hi> and who will not be persuaded that <hi>true Honour</hi> can subsist without <hi>com<g ref="char:EOLhyphen"/>mon Honesty,</hi> or that <hi>seeming Justice</hi> is one of the <hi>Car<g ref="char:EOLhyphen"/>dinal Virtues,</hi> any more than the <hi>Picture</hi> of a Man is a <hi>true Man.</hi>
+            </p>
+            <pb n="2" facs="tcp:205870:3"/>
+            <p>
+               <hi>Plain-dealing!</hi> says the <hi>Time server,</hi> (whose prime Care is to keep on the warm side of the Hedge) what makes this Stranger in our Company? We have not seen him, or exchang'd a word with him these many years. Never since we knew what belong'd to living in the World. Such a Fellow, we heard, came once to Court in King <hi>Ahab</hi>'s days, but got nothing by it but a pittiful Pension of <hi>Bread</hi> and <hi>Water,</hi> 1 <hi>Kin.</hi> 22.27. Had the King (or his famous Queen, our bounti<g ref="char:EOLhyphen"/>ful Patroness, who maintained no less than four hun<g ref="char:EOLhyphen"/>dred of us at her own cost) found him fit for their Service, he had questionless been better accepted of and provided for.</p>
+            <p>If we let this Fellow alone, cryes the <hi>Parasite,</hi> (who seldom feeds but like a Fly, at other Men's Ta<g ref="char:EOLhyphen"/>bles, where he seasons his Talk as a Cook his Dishes, to the Tast and Appetite of those he lives by) we must fast when others feast, and be forc'd to dig or beg, starve or steal, if we mean to live. The ancient Art of <hi>Flattery</hi> (which wants not much of being as old as Humane Society it self) will no longer be stu<g ref="char:EOLhyphen"/>died; the Craft which hath hitherto supported us, will fall to the ground; and a <hi>Parasite</hi> in little time will as rarely be seen in a King's Court or Noble man's House, as a <hi>Cuckow</hi> at <hi>Christmas,</hi> if we look not the better about us.</p>
+            <p>He will utterly spoil our Trade, says the <hi>Sycophant,</hi> (who, like an ill-natur'd Curr, is wont to bite with<g ref="char:EOLhyphen"/>out barking;) We must either remove him, or not hope to get so much as a Fig by any Information we are able to contrive, though it look as like <hi>Truth</hi> as one Fig is like another.</p>
+            <pb n="3" facs="tcp:205870:3"/>
+            <p> We shall not have the liberty of telling a gainful or graceful Lye, nor of feigning any probable Cir<g ref="char:EOLhyphen"/>cumstance, be it never so profitable, to help us at a dead lift, will the <hi>Tale-bearer</hi> say, if this New-fangled Fellow be not banish'd the King's Dominions, and sent back to the Country from whence he came.</p>
+            <p>Away with him quickly; there's not a verier Fool in Nature, cryes the <hi>feigned Lowling</hi> (the ambitious Self seeker I mean, who bows and stoops, creeps and crouches, and humbles himself to admiration, in hopes of rising higher;) not knowing, it seems, any better way to advancement, than by double diligence to please all men, (Superiors especially) in all things, good or bad, right or wrong.</p>
+            <p>What an ignorant Rustick is this, says the <hi>Modern Craftmonger;</hi> for certain this rude Fellow is lately come from <hi>Terra incognita,</hi> where they live at ano<g ref="char:EOLhyphen"/>ther rate than in any of the known civiliz'd Parts of the World. If his <hi>walking</hi> and <hi>talking</hi> be alike, he be<g ref="char:EOLhyphen"/>longs without question to the <hi>Antipodes,</hi> (his steps are so contrary to ours,) and his Name must needs be <hi>Antipas:</hi> If not, he hath out done the famous <hi>seven Sleepers,</hi> who took but a short Nap in comparison of him, whom <hi>Morpheus</hi> hath lock'd up in we know not what Cave above a thousand years. It was longer since indeed that so bold a fellow, as <hi>Plain-dealing</hi> is known to be, could walk abroad quietly, and shew himself safely. All this while he hath dream't of a Foole Paradise, in which there is not so much as one <hi>Judas</hi> to be found: And now being come to himself, believes his <hi>dream</hi> to be true, and presumes there are none alive but such as are like him: But a little time
+<pb n="4" facs="tcp:205870:4"/>will shew him his mistake, and convince him to his shame how great a Fool he is, in hoping to have all the World on his side, when there wants not much of a World to one against him.</p>
+            <p>Let's search and see what Mony he carries about him: (it is not like to be much, if his Name be <hi>Plain-dealing,</hi> and does not bely it: but if he has any, by that we may conjecture what old fashion'd Age of the World he was born in—He would teach us to be Slaves to our Words, as if a great Cardinal and States<g ref="char:EOLhyphen"/>man had not learn't us a contrary Lesson: and, as if he were wiser than that ingenious <hi>Florentine,</hi> (our Oracle) would have us burthen our selves with <hi>being</hi> Religious, when by <hi>seeming so only</hi> we can do our bu<g ref="char:EOLhyphen"/>siness well enough, and much better than otherwise.</p>
+            <p>Away with him therefore, he is not for our turn, but is clean contrary to our doings—He is grievous unto us even to behold; for his Life is not like other men's; His ways are of another Fashion—We are esteemed of him as Counterfeits; <hi>He abstaineth from our ways as from filthiness,</hi> Wisd. 2.12.15.16.</p>
+            <p>All this, and a great deal worse (no doubt) will be said, by <hi>Parasites, Sycophants, Pharisees, Hypocrites, Dissemblers, Tale-bearers, Whisperers,</hi> and such like Ene<g ref="char:EOLhyphen"/>mies of <hi>Plain-dealing.</hi> The whole Tribe of <hi>Judas</hi> will open their Mouths against it; will whet their Tongues as Swords, and let fly their Arrows, even bitter words, to do it all the mischief they are able.</p>
+            <p>If ever this poor forlorn thing (whose <hi>Name</hi> we have not yet lost, though little else of it be left) was hard put to it; if ever it needed to look about wari<g ref="char:EOLhyphen"/>ly to save it self harmless, (if any such hope remain)
+<pb n="5" facs="tcp:205870:4"/>now is the time: for it hath Enemies enough to make a bigger Army than ever <hi>Xerxes</hi> own'd.</p>
+            <p>What shall we do for another <hi>Jeremiah,</hi> (or some such man of Sorrow as he was) to lament the loss of it?</p>
+            <p>Who will call us the mourning Women, that they may come, and send for the cunning Women (who are skilful of Lamentation) that they may take up a wailing for lack of it; that <hi>Nature</hi> being helped by <hi>Art,</hi> our Sorrow may be as great as the grounds of it are just: If any of that ancient facohy of skilful artificial Mour<g ref="char:EOLhyphen"/>ners can be found, now there is more than ordinary need of them, and work for them.</p>
+            <p>What good <hi>Sumaritan</hi> hi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wine and Oyl enough (or Money to buy so much as is needful) to search and heal the Wounds which the Enemies of <hi>Plain-Dealing,</hi> (like Thieves and Murtheters) have given it. How shall this laruised Reed be bound up and strengthen'd? this smoaking Flax made to flame again, before it be quite extinguished▪</p>
+            <p>What good hand will fetch a Coal from the Altar to kindle it? And when that is done, provide store of Oyl to keep it still burning? What fervent <hi>Elias</hi> will fetch down Fire from Heaven, not to <hi>consume</hi> the Adversaries of it, but <hi>infl<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> t heir Hearts with <hi>ardent Affection</hi> to so <hi>lovely an Object</hi> as this; which the <hi>Pro<g ref="char:EOLhyphen"/>verb</hi> confesses to have <hi>no fellow,</hi> be it never so much contemned?</p>
+            <p>What able Physician hath skill enough to prescribe an effectual Remedy against that evil Disease <hi>(Double-Dealing)</hi> which is now so Epidemical? so raging and reigning both in City and Country, that few Families
+<pb n="6" facs="tcp:205870:5"/>escape it; or can tell what Ingredients are strong enough to purge out so malignant and predominant a Humour?</p>
+            <p>A great disgrace to the fruitfulness of this Island it is, that so noble a Plant as <hi>Plain-Dealing</hi> should so rarely be found, and thrive so ill among us as it doth: For what else do we lack (or what should we want, were this as common as it needs to be) to make <hi>Eng<g ref="char:EOLhyphen"/>land</hi> an Earthly Paradise?</p>
+            <p>What but this have we need to borrow from other Nations, which we cannot do well enough without?</p>
+            <p>But the Christian World, I fear, is generally so ill stor'd with this precious Herh of Grace, that it needs send to <hi>Turkey</hi> to be supplied: We may rather <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch it from them, than they, if need be come over to us for it with success.</p>
+            <p>That known Sarcasm which those <hi>Infidels</hi> use, when their Promises are distrusted by any of their own Sect, hath been justifyed a thousand times over by the false and fraudulent dealing of Christian People, (so called, but undeservedly,) and much of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner I fear it will be justifyed.</p>
+            <p>We have in <hi>England</hi> plenty of Cattel and Corn; abundance of Wool and Clorn; variety of Fish and Flesh; store of Arms and Shipping; Books and Learn<g ref="char:EOLhyphen"/>ing; and a great deal of Preaching and Hearing; as much as in any Age ever was: but our shameful scar<g ref="char:EOLhyphen"/>city of <hi>Plain Dealing</hi> disgraces all the rest of our Plen<g ref="char:EOLhyphen"/>ty.</p>
+            <p>When <hi>Deborah</hi> and <hi>Barak</hi> went forth to Batte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> against <hi>Sisera,</hi> there was not a Shield or Spear seen among forty thousand in <hi>Israel, Judg.</hi> 5.8.</p>
+            <pb facs="tcp:205870:5"/>
+            <pb facs="tcp:205870:6"/>
+            <p>
+               <pb n="7" facs="tcp:205870:6"/>
+               <hi>Plain-Dealing</hi> is that needful Armour of Proof, without which <hi>Religion</hi> can never be defended from Disgrace; that Weapon of Offence, without which the Enemes of our Faith can never be worsted. Let us do what we can, or say what we will, they will never subscribe or submit to the Articles of our Creed, while our Words and Deeds are contrary. Without <hi>common Honesty,</hi> (which many of them want not,) they will not believe that <hi>true Religion</hi> can have any being. For who sees not how <hi>sorry</hi> Christians they are who come short of <hi>Heathens</hi> and <hi>Infidels</hi> in so main a point of Human Society?</p>
+            <p>If any such Shield or Spear as this be found among more than forty thousand in <hi>England,</hi> our condition is much better than I take it to be. But I doubt, we want much of being as well provided as those old <hi>Israelites</hi> were.</p>
+            <p>
+               <hi>Diogenes,</hi> to reprove his degenerate Citizens, went about with a Lanthorn and Candle at noon-day to seek a <hi>man,</hi> as he told his wondring Spectators, when they asked what he meant. But <hi>Athens</hi> was a Hea<g ref="char:EOLhyphen"/>then Place. It is more to be wondred that <hi>Jerusalem</hi> was no better stored, when the streets of the City were commanded <hi>to be searched, and the broad places</hi> (where the greatest concourse of People was,) to be examin<g ref="char:EOLhyphen"/>ed to the same intent, <hi>viz.</hi> To find a <hi>man;</hi> a <hi>just, up<g ref="char:EOLhyphen"/>right</hi> Man, that the place might be spared, <hi>Jer.</hi> 5.1. When the Prophet therefore had lost his labour, and wearied himself to no purpose among the vulgar, (a poor ignorant sort of people, <hi>who knew not the way of the Lord,</hi> nor the <hi>Judgment of their God,</hi>) he went to the <hi>Great</hi> men of the place, supposing their <hi>goodness</hi>
+               <pb n="8" facs="tcp:205870:7"/>as well as <hi>knowledge</hi> to be greater than ordinary: but there he found himself no less mistaken than before. Should the like search be made among us, I would gladly hear that it proves not as vain.</p>
+            <p>It requires more time than commonly falls to one man's share, to say as much as this Subject admits. A single Tongue or Pen will not serve the turn.</p>
+            <p>In <hi>Grammar</hi> there are not <hi>words</hi> enough to give them their due Names, nor <hi>Figures</hi> enough in <hi>Arithmetick</hi> to express their number who are Enemies to <hi>Plain-Dealing:</hi> Nor am I vain enough to believe they will let any man alone who goes about to pull away the Cushions and Pillows which they lean on who love to <hi>flatter</hi> and be <hi>flatter'd.</hi>
+            </p>
+            <p>He that can Promise himself Peace and Quietness among so many Enemies, hath more <hi>Faith</hi> than will do him good, and less <hi>Experience,</hi> than is needful to make him wary.</p>
+            <p>
+               <hi>Hopes</hi> are, as <hi>Plato</hi> calls them, the <hi>Dreams of waking People;</hi> but I dream not of any such happiness as that of a quiet Life, if I defend <hi>Plain-Dealing,</hi> until it shall happen to grow more in fashion;
+<q>
+                  <l>— <hi>Bella, horrida bella,</hi>
+                  </l>
+                  <l>
+                     <hi>Et Tybrim multo spumantem sanguine cerno.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>
+               <hi>Doeg,</hi> I know, will whet his Tongue like a sharp Razor, working deceitfully; and pretending to <hi>shave</hi> the face only, while his meaning is to <hi>cut</hi> the throat. Under colour of doing the Office of a <hi>Barber,</hi> he will strive to do the business of <hi>Butcher.</hi>
+            </p>
+            <p>
+               <hi>Demetrius</hi> will bestir himself to make an uproar, now his craft is indanger'd and his Idol undeify'd.</p>
+            <pb n="9" facs="tcp:205870:7"/>
+            <p> They who dare not lift up their hands (like <hi>Ahab</hi>'s Arch-flatterer) to smite <hi>Micaiah</hi> on the cheek, will not spare to buffet and torment him with their Tongues as much as they are able. The whole Tribe of <hi>Judas</hi> will lay their heads together to study mis<g ref="char:EOLhyphen"/>chief against me, The monstrous Herd of <hi>Parasites, Sycophants,</hi> and such like Cattel as would leave nei<g ref="char:EOLhyphen"/>ther Root nor Branch of the rare Herb which I write of, in being, could they have their way, will be at me tooth and nail, hoof and horn.</p>
+            <p>Now, or never look to thy self <hi>Plain dealing!</hi> Keep that little ground thou hast left, or shortly thou wilt not have room enough to set thy Foot on.</p>
+            <p>Now, or never, <hi>O Fortitude!</hi> stand by me, while I plead the Cause of this poor persecuted Pilgrim, (who was anciently an Inhabitant of <hi>England,</hi> but hath shewn himself so <hi>rarely</hi> among us these many years, that few People know him; and the most sus<g ref="char:EOLhyphen"/>pect he is lately come hither from some remote part of the World, to disturb the Peace of the Nation, as if we had not factious Natives enough to save him that Labour. Now therefore, <hi>O Fortitude,</hi> stand by me.) Now direct me <hi>Prudence!</hi> Assist me <hi>Patience!</hi> Be thou my Companion, O <hi>Constancy!</hi> Be thou my Pa<g ref="char:EOLhyphen"/>tron, O <hi>Justice!</hi> If any thing besides thy <hi>bare Name</hi> and <hi>Picture</hi> is left among Mortals. Justifie now the skill of <hi>Apelles, Zeuxis,</hi> or whoever it was that first represented thee to the World with <hi>Sword</hi> and <hi>Bal<g ref="char:EOLhyphen"/>lances.</hi> Let thy Scepter sway and govern in humane Affairs. Take thy Sword in hand to cut off all <hi>Par<g ref="char:EOLhyphen"/>tiality, Hypocrisie</hi> and <hi>double dealing.</hi> Brandish it against all that abuse thy <hi>place and office;</hi> against all
+<pb n="10" facs="tcp:205870:8"/>that crave thy help in <hi>wrong Causes;</hi> against all that call <hi>Oppression</hi> and <hi>Violence</hi> by thy <hi>Name;</hi> against all that obtrude a false counterfeit Picture of <hi>Justice</hi> upon us in<g ref="char:EOLhyphen"/>stead of thy <hi>divine self.</hi> Let thy <hi>Ballances</hi> be employ'd to weigh the difference of <hi>Causes,</hi> and not of <hi>Persons</hi> only who flee to thee for Succor: that none may say thou hast taken an eternal farewel of the Earth, and resolvest to keep residence in Heaven only, till the Worlds end; which we cannot expect should, with<g ref="char:EOLhyphen"/>out thy Company, continue much longer.</p>
+            <p>Be thou my Friend, O <hi>Equity!</hi> that <hi>might</hi> and <hi>malice</hi> oppress me not.</p>
+            <p>Help me all ye <hi>Sacred Powers!</hi> without whose aid <hi>Plain-dealing</hi> will never be able to support it self. You are the Props and Pillars which must bear it up; forsake it not now, if ever ye intend to keep it from falling on the ground to be trodden under foot.</p>
+            <p>I had scarce time to finish my Petition, before <hi>For<g ref="char:EOLhyphen"/>titude,</hi> knowing me to be somewhat acquainted with the Prince of <hi>Latin</hi> Poets, cryed out in his words,
+<q>
+                  <hi>Tu ne cede malis, sed contra audentior ito.</hi> Aen. 6.</q> and told me, that none of her followers used to de<g ref="char:EOLhyphen"/>sist from Noble Enterprises for fear of danger. And because I had sometimes been conversant with another Artist of the same Faculty and Age; she brought to my remembrance an incouraging passage of his, of a like nature, which was this:
+<q>
+                  <l>
+                     <hi>Virtus, recludens immeritis mori</hi>
+                  </l>
+                  <l>
+                     <hi>Coelum, negatâ tentat iter viâ.</hi>
+                  </l>
+               </q>
+            </p>
+            <bibl>Hor. Carm. l. 3. Od. 2.</bibl>
+            <pb n="11" facs="tcp:205870:8"/>
+            <p> She forgot not neither, that memorable Saying of the <hi>Divine Philosopher,</hi> (as a Learned Christian thought fit to call a less Learned <hi>Heathen,</hi> whose company, when better at leisure, I had kept and profited by;) as fit for <hi>her</hi> and <hi>my</hi> purpose, as either of the former, <hi>viz. Avida periculi res est Virtus, &amp; quo tendat non quid passura sit cogitat. Quoniam &amp; quod passura est, gloriae pars est. Senec. Cur. bon. mala con. c.</hi> 4.</p>
+            <p>A great deal more she had said, and confirm'd it all by Examples, (which she carefully kept in her golden Cabinet of <hi>History,</hi> to be used as <hi>Cordials</hi> on special Occasions to keep her followers in heart,) but that she saw me in haste, and knew that I longed to hear what her <hi>Sister Prudence</hi> (who stood by her, and is seldom or never out of her Company) would answer to my Request.</p>
+            <p>
+               <hi>Prudence</hi> promised to be on my side, if I would not hereafter trust those who speak one thing sitting, another standing: And advised me likewise never to seek or regard the favour of angry People, if I pur<g ref="char:EOLhyphen"/>posed to have her Company. For which she brought the Authority of as great a <hi>Master of Prudence,</hi> as ever undertook to give subtilty to the simple, and pointed with her Finger to the place where he saith, <hi>Make no Friendship with an angry man.</hi> Prov. 22.24.</p>
+            <p>
+               <hi>Patience</hi> said she would abide with me, unless <hi>Op<g ref="char:EOLhyphen"/>pression,</hi> her mortal Enemy, caused her now and then to step aside a little. For <hi>Oppression,</hi> she said, the <hi>wi<g ref="char:EOLhyphen"/>sest,</hi> as well as <hi>wealthiest</hi> of Kings, hath assur'd us, <hi>will make a wise man mad.</hi> Eccl. 7.7.</p>
+            <p>
+               <hi>Constancy</hi> told me, she had been abus'd often by the foul Mouth of <hi>Calumny;</hi> which sometimes re<g ref="char:EOLhyphen"/>proached
+<pb n="12" facs="tcp:205870:9"/>her with the scandalous Name of <hi>Contuma<g ref="char:EOLhyphen"/>cy;</hi> and sometimes reported her to be desperately sick of a pestilent Disease called <hi>Pertinacy</hi> or <hi>Pervicacy,</hi> that every body might shun her Company.</p>
+            <p>Here I was somewhat in doubt what would follow this preamble, and began to suspect that <hi>Constancy</hi> her self was grown weary of her old <hi>Cubical posture,</hi> in<g ref="char:EOLhyphen"/>tending hereafter to play <hi>Proteus,</hi> and act the <hi>Chame<g ref="char:EOLhyphen"/>lion;</hi> but that she continued her Speech, and said, That wise men laugh at the frights and fears of Chil<g ref="char:EOLhyphen"/>dren and Fools: That honour and dishonour, bad report and good report, is the common road and bea<g ref="char:EOLhyphen"/>ten path to which she hath ever been accustomed since first she was able to travel abroad in the World: That <hi>considering People</hi> knew her well enough, and would call her by her right Name, though the <hi>igno<g ref="char:EOLhyphen"/>rant</hi> or <hi>malevolent</hi> miscalled her never so often: That the <hi>praises</hi> of worthless People are no <hi>Commendations,</hi> nor their <hi>dispraises</hi> disgraces among the <hi>Intelligent;</hi> That her care was to please the <hi>best,</hi> not the <hi>most,</hi> who are commonly the <hi>worst.</hi> Other Discourse to the same effect, which I was not a little glad to hear, she entertain'd me with; and at last for a close, used these, or some such words: That as hitherto she had not been afraid or asham'd to shew her face in a <hi>good cause,</hi> so now she resolved that she would not desert me, which indeed was the thing I look'd for.</p>
+            <p>
+               <hi>Justice</hi> confessed, that she had not a better Friend upon Earth than <hi>Plain-dealing.</hi> Without it, she said, it was not possible for her to subsist: And for that reason protested, that if any body did me wrong for taking <hi>her Friends</hi> part, she would take it as done
+<pb n="13" facs="tcp:205870:9"/>to her self, and assur'd me, that what ever loss I su<g ref="char:EOLhyphen"/>stain'd in <hi>defence.</hi> of so good a cause, should sooner or later be repair'd.</p>
+            <p>
+               <hi>Plain-dealing,</hi> said <hi>Justice,</hi> (being troubled to hear her <hi>old Friend</hi> so slander'd and abus'd, as hath been re<g ref="char:EOLhyphen"/>lated;) if it be not more countenanc'd and practis'd than for too many years past it hath been, my honour<g ref="char:EOLhyphen"/>able Judges will never be able to sit upright on my Tribunal: my Learned Advocates, who plead at my Bar, will be subject to an old censure, which hath said, that their Art is to urge and inforce Probabili<g ref="char:EOLhyphen"/>ties and <hi>pictures</hi> of <hi>verity</hi> more than <hi>verity</hi> it self; And, as <hi>Didymus,</hi> King of the <hi>Brachmans,</hi> plainly told the great <hi>Alexander,</hi> their chief study will be to make <hi>Lyes</hi> look like <hi>Truth,</hi> and <hi>guiltiness</hi> to seem as clear as <hi>Innocency</hi> it self.</p>
+            <p>My Delight, said she, is to see <hi>Judgment run down as Waters, and Righteousness as a mighty stream,</hi> Amos 5.24. And as running water is clear and clean with<g ref="char:EOLhyphen"/>out mud or dirt intermingled, so I love to see Judg<g ref="char:EOLhyphen"/>ment run clearly and cleanly without any mixture of Partiality, Hypocrisie, Double-dealing, or any other filthiness whatsoever. When the course of Righteous<g ref="char:EOLhyphen"/>ness is not stop'd, or turn'd aside by Delay, Might, Malice, Violence, Oppression, or any wrong-dealing besides; but agrees to the flowing of a mighty stream, which runs swiftly, carrying all before it, and scorn<g ref="char:EOLhyphen"/>ing to be hindred or diverted; This to me, said <hi>Justice,</hi> is the pleasantest sight in the World; But, as long as <hi>Plain-dealing</hi> is out of request, <hi>Judgment will be turned into Gall and Wormwood, and the fruit of Righteousness into Hemlock,</hi> Amos 5.7.6.12. Instead of a just up<g ref="char:EOLhyphen"/>right
+<pb n="14" facs="tcp:205870:10"/>sentence (that sweet and pleasant fruit of Righ<g ref="char:EOLhyphen"/>teousness) nothing will be found but what is bitter and distasteful, like Gall and Wormwood, or deadly and destructive, as the Juyce of Hemlock. My vene<g ref="char:EOLhyphen"/>rable Name will be pretended to wrong and abuse poor feeble people who have no body to take their part, though my whole business is to do every one Right. <hi>Wrath</hi> and <hi>Avarice,</hi> with other <hi>Vices</hi> and Passi<g ref="char:EOLhyphen"/>ons, will usurp my Throne, and yet carry the matter as confidently as if not <hi>they,</hi> but <hi>I my self</hi> only possess'd it. The <hi>person of the wicked,</hi> if potent, <hi>will be accepted, to overthrow the Righteous,</hi> if poor, <hi>in Judgment;</hi> as bad as it is to be guilty of such <hi>Evil-dealing,</hi> Prov. 11.5. The one will be <hi>justified for a Reward,</hi> and the <hi>Righteous<g ref="char:EOLhyphen"/>ness</hi> of the other <hi>will be taken from him,</hi> as much as the Lord hates and threatens those who do it, <hi>Esa.</hi> 5:23.</p>
+            <p>Those old Proverbs <hi>[Might justles out Right; Mo<g ref="char:EOLhyphen"/>ney masters all things; As a Man is friended so his mat<g ref="char:EOLhyphen"/>ters are ended]</hi> which have been too long in fashion, will never grow out of date till <hi>Plain-dealing</hi> be more in use; <hi>Laws</hi> will never cease to be like <hi>Spiders webs,</hi> which let go the great, and hold fast none but little flies; (as a certain Philosopher finely expressed a foul matter:) <hi>Lawyers</hi> will never leave striving to make the worse side look like the better: The Strifes and Suits of their Clients will be perpetuated from <hi>Age</hi> to <hi>Age,</hi> and not from <hi>Year</hi> to <hi>Year,</hi> or <hi>Term</hi> to <hi>Term</hi> only; and sometimes their Causes, though never so good, will be forced as far back in <hi>Hillary</hi> as they went forward in <hi>Michaelmas</hi> Term, like <hi>Penelope</hi>'s Web, which lost as much by Night as it got by Day; That free Course I delight in will be obstructed by
+<pb n="15" facs="tcp:205870:10"/>
+               <hi>dilatory</hi> Pleas, and <hi>groundless</hi> Demurrs, to keep in<g ref="char:EOLhyphen"/>jur'd People out of their <hi>Right.</hi> Publick Thieves, as my grave <hi>Cato</hi> said, <hi>will be brave fellows,</hi> (richly at<g ref="char:EOLhyphen"/>tir'd and drawn up and down in Coaches to take their Pleasure) while private pilferers are kept in fetters, or drawn in Carts to places of Execution. For the same fault one will be punish'd, while another, as guilty, or more, is pass'd by; That sharp Censure, whose Piercing Point <hi>Petronius</hi> directed against the Age which he lived in,
+<q>
+                  <hi>Jam nunc Judicium nihil est nisi publica merces,</hi> i. e.</q>
+            </p>
+            <p>That Judicature is nothing else but the exercise of publick Merchandise, will be as proper for the pre<g ref="char:EOLhyphen"/>sent or future times, as it was for his own. And his Question.</p>
+            <q>
+               <hi>Quid faciunt Leges ubi sola pecunia regnat?</hi>
+            </q>
+            <p>What have Laws to do where Money alone reigns? will as much need to be asked hereafter as longer since.</p>
+            <p>With a little more warmth than before, (as I per<g ref="char:EOLhyphen"/>ceived by the manner of her Speech, which was after<g ref="char:EOLhyphen"/>ward interrogative,) Must I, said <hi>Justice,</hi> be made a <hi>Hackney Jade,</hi> to be back'd and spur'd by the <hi>Passions</hi> of <hi>ungodly People,</hi> (by <hi>Pride, Wrath, Malice, Avarice,</hi> and abundance of other bad Riders,) to carry them to their Journey's end of Injury and wrong? Must I be sent Poste to serve their hasty and corrupt Humours? or be used to run the Race of Revenge for them? Far be this from me. My coelestial Extraction is against
+<pb n="16" facs="tcp:205870:11"/>it. My Divine Nativity forbids that any such abuse should be done me. Yet this <hi>cursed Drudgery,</hi> if <hi>Plain-dealing,</hi> which would ease me of it, be suppressed, I shall never be able to avoid.</p>
+            <p>He needs as good a memory as <hi>Cyrus</hi> is reported to have had, (who could call a hundred thousand Soul<g ref="char:EOLhyphen"/>diers, which his Army consisted of, by their several Names,) that would count all the Mischiefs and Abu<g ref="char:EOLhyphen"/>ses, which <hi>Justice</hi> said could never be prevented with<g ref="char:EOLhyphen"/>out the help of <hi>Plain-dealing;</hi> and I think it would tire a Reader of but ordinary Patience to run over the one half of them, were I able to recollect and set them down in order. But it is not my purpose to <hi>try,</hi> much less to <hi>tire</hi> his patience.</p>
+            <p>I will therefore end the repetition of her Discourse with a memorable passage, which I cannot easily for<g ref="char:EOLhyphen"/>get, whatever others do. <hi>Nicholas Clemangis,</hi> another special Friend of mine, said <hi>Justice,</hi> in his time told the world, <hi>That in</hi> France <hi>I was bought and sold like Cattel and Slaves in a Market, and that there was more of me in Hell than in that Kingdom.</hi> For which he gave this reason: In <hi>Hell</hi> no <hi>good</hi> man suffers, nor any <hi>wicked</hi> man goes unpunish'd. But in <hi>France</hi> it was contrary; The <hi>good</hi> were there persecuted, the <hi>guilty</hi> passed by. About which she referred me to his 10th and 13th Books, <hi>de laps. &amp; reparat. Just.</hi> for further satisfaction.</p>
+            <p>This Report or Complaint of his she confess'd would fit any other place where Matters are carried as in <hi>France;</hi> but God forbid, said she, that ever it should be true of <hi>England;</hi> though it cannot be hoped to be otherwise unless the Credit of <hi>Plain-dealing</hi> be kept up.</p>
+            <pb n="17" facs="tcp:205870:11"/>
+            <p> In fine, she told me, that none of her Friends Enemies could be her Friend; and renewed her promise of taking me into protection.</p>
+            <p>She denied not indeed that her way was many times so blockt up by false Informations and other Im<g ref="char:EOLhyphen"/>pediments, that she could not come at honest people to help them; nor they at her for Assistance; but as<g ref="char:EOLhyphen"/>sur'd me withall, that if <hi>craft, violence,</hi> or any other <hi>Enemy</hi> which stood in her way should hinder her from doing me Right here on Earth, she would not fail to make me amends in a better place, where now for the most part she keeps residence, though she doth not so closely confine her self there, but now and then she visits the Earth, whatever the Poets have gone about to persuade the World. All shall be well, were her last words.</p>
+            <q>Est bene non potuit dicere, dixit erit.</q>
+            <p>
+               <hi>Equity,</hi> having wondred a while, as just cause she had, that so sweet natur'd a Creature as her self should find so little kindness, and so cold Entertainment among Christians, whose <hi>Righteousness</hi> ought to be <hi>greater</hi> than the greatest of all other <hi>Religions,</hi> Math. 5.20. whereas that great Man of the <hi>East,</hi> who had not his fellow upon Earth while he lived, and whose Name will never be blotted out of the Book of Fame while the World stands, was so tender of her, that he <hi>despi<g ref="char:EOLhyphen"/>sed not the Cause of his Man-servant or Maid-servant, when they contended with him, Job</hi> 31.13. And the Conquerour, surnamed the Great, loved her so dearly, that he would not hear a Plantiff or Accuser but with
+<pb n="18" facs="tcp:205870:12"/>one of his Ears only; the other being stopt with his finger, and kept for the Defendent; by which it ap<g ref="char:EOLhyphen"/>pears how close he came up to the Sence of that grave Sentence which was written long after his Death;
+<q>
+                  <l>
+                     <hi>Qui statuit aliquid parte inauditâ alterâ,</hi>
+                  </l>
+                  <l>
+                     <hi>Aequum licet statuerit haud aeqnus fuerit.</hi>
+                     <bibl>Sen. Med.</bibl>
+                  </l>
+               </q>
+            </p>
+            <p>Which in English tells us, that he is not equal him<g ref="char:EOLhyphen"/>self who judgeth before both sides have been heard, though his Sentence be equal. For it is not <hi>Choice</hi> but <hi>Chance,</hi> not <hi>Virtue</hi> but <hi>Hap</hi> which in such a case does the business; which <hi>Equity</hi> therefore owes him no thanks for: Having wondred a while, I say, at this, at last she spake thus, or to this effect.</p>
+            <p>That <hi>Plain-dealing</hi> is as near of kin to her as the Soul to the Body which it inlivens, and as needful for her subsistence as the Eye for the sight of the Body, or the Sun for the Light of the World. That with<g ref="char:EOLhyphen"/>out it she is but a bare and empty Name; That the Proverb which gives losers the liberty of speaking may go a begging for any service it can do an inno<g ref="char:EOLhyphen"/>cent Sufferer; And that <hi>men</hi> made after the Image of God would be far worse treated, and in a sadder case than <hi>Balaam</hi>'s dull Beast (whom the mad Prophet her Master permitted to speak for her self,) if <hi>Plain-dealing</hi> be laid aside.</p>
+            <p>My business, said she, is to mitigate the severity, and smooth the roughness of Laws, which would sometimes do more hurt than good, if I did not hin<g ref="char:EOLhyphen"/>der it. For that end my Sister <hi>Justice</hi> makes frequent use of me as a Lenitive, to keep her from growing
+<pb n="19" facs="tcp:205870:12"/>over sharp, soure and eager. But if <hi>Sycophancy</hi> and other Enemies be suffered to shut out <hi>Plain-dealing,</hi> that it cannot enter my Courts, men will never be to seek of malicious, fraudulent, forced and strained Sen<g ref="char:EOLhyphen"/>ses and interpretations of Laws and Statutes to per<g ref="char:EOLhyphen"/>vert and overthrow the Causes of my Clients.</p>
+            <p>But if ever I consent to any such <hi>Dealing,</hi> or any thing else that is contrary to <hi>Plain-dealing,</hi> let me for<g ref="char:EOLhyphen"/>feit my Name, said <hi>Equity,</hi> for a farewel, and be cal<g ref="char:EOLhyphen"/>led <hi>Iniquity</hi> for ever hereafter. And withall encoura<g ref="char:EOLhyphen"/>ged me not to fear the power, number, or Clamor of any such Enemies as <hi>Plain-dealing</hi> hath; or might pro<g ref="char:EOLhyphen"/>bably stir up against me for defending her.</p>
+            <p>Some will say, I had better by far have been silent; rather than by handling a red-hot subject to indanger the burning of my fingers. But I say, That it is not the badness of the Leather so much as the Knavery of the Tanner which offends me. And I think there are few Dogs so dull and fullen but will bark to see a pudden creep.</p>
+            <p>Monstrous rarity will make any man that hath a Tongue to speak, break silence, as naturally as hun<g ref="char:EOLhyphen"/>ger will compel him to break his fast.</p>
+            <p>It is no news to me, That as <hi>Flattery</hi> gets Friends, so <hi>Plain-dealing</hi> makes Enemies; yet I love it not the less; being sensible that the Sun and Moon may as justly be accused of Idolatry for having been wor<g ref="char:EOLhyphen"/>ship'd, and that Wine may as well be condemned for causing <hi>Drunkenness,</hi> as <hi>Plain-dealing</hi> can be cryed down for stirring up <hi>Strife.</hi> The poor harmless Crea<g ref="char:EOLhyphen"/>ture never intended any such thing. The pride, rage, and wrath of mankind, with other Affections and
+<pb n="20" facs="tcp:205870:13"/>Lusts, (which they labour not to mortifie, nor will take any care to crucifie, let St. <hi>Paul</hi> say what he will) must bear the blame.</p>
+            <p>Well! the worst to be said of it, is, That if by ac<g ref="char:EOLhyphen"/>cident it hath been my <hi>Enemy,</hi> who can tell but that at last it may turn about and become a <hi>Friend?</hi> (A man of more <hi>wisdom</hi> and greater <hi>Experience</hi> than any man living, forbids me to despair of such a change, <hi>Prov.</hi> 28.23. <hi>He that rebuketh a man, afterwards shall find more favour than he that flattereth with the Tongue.</hi>) But if no such turn happen, I am sure however that no <hi>honest man</hi> can be an <hi>Enemy</hi> to it. And I heartily wish I could love my other Enemies as intirely and unfeignedly, as this.</p>
+            <p>Now if the Enemies of <hi>Plain-dealing</hi> find fault with me for presenting them with a Pearl, and treat me with nothing but pebbles or worse stones instead of Bread; (for who knows not that it is proverbially honour'd with the Name of a <hi>Jewel,</hi> and none but a stranger to the rarity and value of it can deny it to be worthy of the Name,) I will only answer them, in imitation of what <hi>Crastinus</hi> said to <hi>Julius Caesar,</hi> when that great Battel between him and his Son-in-Law (for the Empire of <hi>Rome</hi>) was ready to be joyn'd; That <hi>Plain-dealing will give me thanks either dead or alive.</hi>
+            </p>
+            <p>The rarity of this admirable Jewel is indeed lamen<g ref="char:EOLhyphen"/>table; but that makes the value of it the greater. The harder it is to be found, the more it deserves to be esteem'd; for although it is and hath been long out of fashion, it should never be out of season; but
+<pb n="21" facs="tcp:205870:13"/>like Bread and Salt, it ought to be brought to the Table every Meal, let what will else be set on.</p>
+            <p>To divers other Gems many excellent properties have been ascrib'd, which I cannot tell whether any ones Experience hath yet proved to be true;</p>
+            <p>The <hi>Emerald</hi> and <hi>Jacinth</hi> are affirm'd to be <hi>cordial.</hi>
+            </p>
+            <p>The <hi>Carbuncle</hi> too, they say, <hi>strengthens the vital Spi<g ref="char:EOLhyphen"/>rits,</hi> chaseth away Melancholy, and resisteth Poyson.</p>
+            <p>The <hi>Jasper,</hi> they tell us, cheereth the heart, stanch<g ref="char:EOLhyphen"/>eth blood, and contributes to Chastity; which last property is also attributed to the <hi>Chrysolite, Topaz, Onyx</hi> and <hi>Sardonyx</hi> stones. And if it be true, this <hi>wanton</hi> Age hath more than ordinary need of them. As also the <hi>Amethist,</hi> if it doth not bely its name, but is good against <hi>Drunkenness,</hi> was never more needful in <hi>England</hi> than at this time it is.</p>
+            <p>The <hi>Saphir</hi> they hold to be a good remedy against Tumors and Inflammations. The <hi>Chrysopras</hi> is said to remove dimness of sight, and the <hi>Turkey</hi>-stone to help weak Eyes. The <hi>Ruby,</hi> we are told, not only clear<g ref="char:EOLhyphen"/>eth the Eye-sight, but preventeth frightful Dreams.</p>
+            <p>Against other <hi>distempers</hi> these and other precious stones have been held Medicinal. Which if it be true, the wonder is the less that we have them so far fetcht, and <hi>dear bought.</hi>
+            </p>
+            <p>But let these things be as they will. Let the Stu<g ref="char:EOLhyphen"/>dents of Natural Philosophy and Physick make good their reports if they can.</p>
+            <p>The Jewel which I write of, hath all these and ma<g ref="char:EOLhyphen"/>ny other vertues besides; which were never more need<g ref="char:EOLhyphen"/>ful among <hi>English People</hi> than now.</p>
+            <pb n="22" facs="tcp:205870:14"/>
+            <p> A greater Cordial to cheer the Spirits and keep the heart from sinking into the heels, was never known: For as great a <hi>Saint</hi> as he was who <hi>rejoyced in tribula<g ref="char:EOLhyphen"/>tion, Rom.</hi> 5.3. he confessed himself beholding to <hi>Plain-dealing</hi> for that rare and admirable sort of joy, 2 <hi>Cor.</hi> 1.12.</p>
+            <p>A more quick and lively <hi>Corrasive</hi> to fret off <hi>proud flesh</hi> was never try'd. The King of <hi>Babylon</hi> had a won<g ref="char:EOLhyphen"/>derful Cure wrought on him by vertue of this Reme<g ref="char:EOLhyphen"/>dy apply'd to his Malady (O rare, and strange!) by the hand of a Courtier. <hi>Dan.</hi> 4.</p>
+            <p>A better Antidote against Poyson <hi>Mithridates</hi> him<g ref="char:EOLhyphen"/>self knew not. Thence it is that <hi>Parasites, Pharisees,</hi> and all <hi>Hypocrites</hi> (whose dissimulation is as deadly Poyson) can no more abide it, than a Serpent the taste of a man's fasting spittle.</p>
+            <p>Doth any man know a better <hi>Collyrium</hi> to clear the Eyes, and help weak sighted People to see <hi>them<g ref="char:EOLhyphen"/>selves</hi> as well as other <hi>Objects,</hi> that none may have cause to upbraid them with the Proverb of being <hi>blind at home, quick sighted abroad?</hi> He is no Friend to Mankind, if he will not reveal the Secret.</p>
+            <p>It contributes to Chastity too, as divers precious stones are said to do. King <hi>David</hi> never transgressed the <hi>seventh Commandment</hi> again, after <hi>Nathan</hi> had plain<g ref="char:EOLhyphen"/>ly applyed the Parable of the poor man's <hi>Ew-Lamb</hi> to his case. If the like Sinners were as plainly told who will judge them in another World, though they never suffer any Punishment in this, besides the <hi>rotten<g ref="char:EOLhyphen"/>ness of the bones,</hi> which commonly they are subject to, their number would be less.</p>
+            <pb n="23" facs="tcp:205870:14"/>
+            <p> Whether Nature is stored with any such Remedy as deserves the Name of a <hi>Catholicon,</hi> I cannot tell. But <hi>Plain-dealing</hi> being seasonably and rightly applied, is apt to cure any Spiritual Distemper whatsoever; And I make no doubt but that the Defect of this excellent Remedy is much the cause that Iniquity abounds so much as it doth.</p>
+            <p>For the most, it is manifest, love to be <hi>flatter'd;</hi> and, as if they were not able to <hi>flatter</hi> themselves fast enough, are glad to meet with any body that will do them that <hi>ill</hi> office. Which, because it is seldom or never done <hi>gratis,</hi> makes the number of <hi>Flatterers</hi> so great, and the company of <hi>Plain-dealers</hi> so small, as all good people see and lament it to be.</p>
+            <p>The work is so <hi>sordid,</hi> that they need to be well paid for their pains who meddle with it; yet abun<g ref="char:EOLhyphen"/>dance of <hi>dirty folk</hi> there are who refuse it not for the love of gain (though is but <hi>filthy Lucre</hi>) which comes by it.</p>
+            <p>The rest, who think it base and beneath them to <hi>foul</hi> their Mouths with <hi>Flattery,</hi> will not <hi>open their mouths</hi> (many of them) to prescribe a <hi>dose, dram,</hi> or <hi>scruple</hi> of <hi>Plain-dealing</hi> to those poor, weak, Sin sick People, who might possibly be recover'd of their grie<g ref="char:EOLhyphen"/>vous Distempers by a seasonable Application of the Remedy they stand in need of.</p>
+            <p>Many a <hi>Pick-thank Tale-bearer</hi> and <hi>Intermedler</hi> has driven a far gainfuller Trade, (though it is little or nothing better or honester,) than the busiest or greatest Pick pocket of them all. But if they do not know whose property it is to be <hi>medling,</hi> let them learn of the wisest, as well as wealthiest of Kings that ever was,
+<pb n="24" facs="tcp:205870:15"/>who tells them, <hi>Prov.</hi> 20.3. <hi>It is an honour for a man to cease from strife; but every Fool will be medling.</hi> And to save them the labour of having any thing to do with matters that belong not to them, let them take the same <hi>Royal</hi> Tutor to teach them who such a one is like, <hi>Prov.</hi> 26.17. <hi>He that passeth by and medleth with strife belonging not to him, is like one that taketh a Dog by the Ears.</hi> And vers. 22. <hi>Where there is no Wood there the Fire goeth out: So where there is no Tale-bearer the strife ceaseth.</hi> vers. 23. <hi>The words of a Tale bearer are as wounds,</hi> &amp;c. But in the 25th verse, he saith, <hi>When he speaketh fair believe him not,</hi> &amp;c.</p>
+            <p>There are another sort of People, I know, who perswade themselves that <hi>Honesty</hi> and <hi>Honour</hi> can sub<g ref="char:EOLhyphen"/>sist asunder; (the later, I mean, without the former, for the former depends not on the later.) The monstrous, Progeny of that wild imagination are those <hi>high</hi> and <hi>mighty Sinners</hi> of all sorts and sizes, who <hi>think</hi> them<g ref="char:EOLhyphen"/>selves, and are <hi>thought</hi> by the vulgar, to be <hi>honourable,</hi> though they have not, sometimes, as much as a spark of <hi>Grace,</hi> or grain of <hi>Goodness</hi> to render them really so. But the <hi>better Opinion,</hi> or rather the very truth is, that as <hi>Faith without Works, and a Body without a Soul is dead;</hi> so <hi>Honour</hi> without <hi>Honesty</hi> is <hi>liveless;</hi> as ve<g ref="char:EOLhyphen"/>ry a Fiction as all the Centaurs, Chimera's, and Cy<g ref="char:EOLhyphen"/>clopical Monsters which occur in Poetry, or Roman<g ref="char:EOLhyphen"/>tick History.</p>
+            <p>Now let any considerate Person tell me, what just cause of wonder is left why <hi>Sin</hi> is so <hi>rife,</hi> and <hi>Sancti<g ref="char:EOLhyphen"/>ty</hi> so <hi>rare,</hi> while <hi>Plain-dealing,</hi> like a black Swan, or Phenix is so hard to be found.</p>
+            <pb n="25" facs="tcp:205870:15"/>
+            <p> But the worst of it is, that much of that <hi>Salt</hi> which should season the rest of the World, is it self grown unsavoury. <hi>Double-dealing</hi> is crept in among the <hi>Cler<g ref="char:EOLhyphen"/>gy</hi> themselves. <hi>Church-men</hi> too, as well as <hi>Tradesmen,</hi> and most other <hi>Lay-men,</hi> are provided of a <hi>Heart,</hi> and a <hi>Heart,</hi> as the Sacred Tongue expresses, what we call a <hi>double Heart,</hi> Psal. 12.2.</p>
+            <p>
+               <hi>Sacerdos est non fallet; Christianus non mentietur;</hi> Think not that a Priest will deceive, or a Christian make a Ly, was wont to be said of old; But the truth of that Proverb is much worn out; those golden days are gone; our Silver is become dross; our Wine mingled with water; we live in an Iron Age. <hi>Jerom</hi>'s advice to <hi>Nepotian (Sacerdotis Christi os, mens, ma<g ref="char:EOLhyphen"/>nus{que} concordent,</hi> that the <hi>thoughts, words</hi> and <hi>deeds</hi> of his immediate Servants, <hi>in whose mouth no guile was found,</hi> should be <hi>one</hi>) is well enough known, but as little followed by some, as if it were contrary to Ec<g ref="char:EOLhyphen"/>clesiastical Policy. And I wish the Fellow in the Play who boasted how well he could King it, had wanted cause to say, That for <hi>Flatterers</hi> he would furnish him<g ref="char:EOLhyphen"/>self with the best Divines that Money could procure. For what cannot Money buy? Was not <hi>Christ</hi> himself sold for it.</p>
+            <p>But if <hi>Double-dealing</hi> is double Iniquity in other men, how many-fold Impiety is it in <hi>Clergy-men?</hi>
+            </p>
+            <p>I will not therefore add to the number, already too great, but do the best I can to diminish it.</p>
+            <p>And if that which I offer, is a <hi>Jewel,</hi> (as hath fair<g ref="char:EOLhyphen"/>ly been prov'd,) there is no reason the roughness of the case wherein it is lodg'd, should be found fault with.</p>
+            <pb n="26" facs="tcp:205870:16"/>
+            <p> If real asperity can be objected against it, no less man than the Emperor, who used to say, <hi>Non acerba sed blanda nocent,</hi> That smooth words are apter to do mischief, than sharp, will become my <hi>Apologist.</hi>
+            </p>
+            <p>And the wise King allows the use of words as <hi>sharp as goads</hi> (to quicken) and <hi>nails</hi> (to fasten.) <hi>Eccles.</hi> 12. For his <hi>Tongue</hi> needs to be tipt with <hi>Steel,</hi> to be as sharp as <hi>Doeg</hi>'s, as bitter as <hi>Balaam</hi>'s, as keen as a <hi>Ra<g ref="char:EOLhyphen"/>sor,</hi> and as cutting as a <hi>two edged Sword,</hi> that would worthily rebuke so cursed and common a fault as <hi>double-dealing</hi> is. When as foul and filthy Crimes are found amongst <hi>Christians</hi> as of old made the <hi>Cretians</hi> infamous, why should they escape that smart reprehen<g ref="char:EOLhyphen"/>sion which no less man than an Apostle hath awarded them, <hi>Titus</hi> 1.13. <hi>Rebuke them sharply, &amp;c.</hi> When the Disease is grievous, and the Patient strong, what good can a mild and gentle Medicine do?</p>
+            <p>A desperate <hi>Case</hi> needs a desperate <hi>Cure.</hi> When a Patients Life lies at stake, and must needs perish with<g ref="char:EOLhyphen"/>out present help, what Physician of <hi>value</hi> will spend time in begging leave to do his office? Is it not a great deal better that unruly Patients should be lanced and bleeded by force, than cast away for want of needful attendance?</p>
+            <p>It is known what Creatures they are by whom <hi>Pearls</hi> are contemned. If I meet with such, let them know that I value their displeasure as little as they value the <hi>Pearl</hi> which they judge so unworthy of acceptance.</p>
+            <p>But the main matter is, that when poor-men have Pearl to dispose of, wise-men will be ready to ask whence they had them? and how they came by them?
+<pb n="27" facs="tcp:205870:16"/>that so they may undervalue that, which if a rich man had the disposal of, they must buy at a dear rate.</p>
+            <p>Some potent Oppressors think it strange to hear their unjust deeds question'd, or complain'd of, and look to be thanked for the wrong which they have done, for fear they should do more: And some <hi>craf<g ref="char:EOLhyphen"/>ty Dissemblers</hi> are apt to cry <hi>peccavi</hi> when their Con<g ref="char:EOLhyphen"/>sciences tell them they have not offended; that by <hi>fraud</hi> and <hi>flattery</hi> they may win a <hi>Superior</hi>'s favour, which by <hi>fair means</hi> they despair of attaining. But a <hi>generous mind</hi> will rather dye in the Dirt, than get out of it by <hi>baseness.</hi>
+            </p>
+            <p>Skilful <hi>Flattery</hi> hath done many a man more <hi>service</hi> than real <hi>Vertue</hi> could ever do some others: But I look on a <hi>Flatterer</hi> as a <hi>Monster,</hi> who can neigh like a Horse, and if need be, bray like an Ass; roar like a Lyon, low like an Ox, bleat like a Sheep, bark like a Dog, howl as a Wolf, and what not? He can weep with the one and laugh with the other Eye; can weep without Sorrow, and laugh without Joy. Not <hi>Sym<g ref="char:EOLhyphen"/>pathy</hi> but <hi>Company</hi> makes him merry or sorry. <hi>Proteus</hi> himself was never a greater Changeling, nor <hi>Chimaera</hi> an odder Monster.</p>
+            <q>
+               <l>— <hi>Rides? majore cachinno</hi>
+               </l>
+               <l>
+                  <hi>Concutitur: flet, si lacrymas adspexit amici,</hi>
+               </l>
+               <l>
+                  <hi>Nec dolet. Igniculum brumae si tempore poscas,</hi>
+               </l>
+               <l>
+                  <hi>Accipit Endromidem: Si dixeris aestuo, sudat.</hi>
+               </l>
+               <l>
+                  <hi>Nocte die{que} potest alienum sumere vultum.</hi>
+               </l>
+            </q>
+            <bibl>Juven. Sat. 3.</bibl>
+            <pb n="28" facs="tcp:205870:17"/>
+            <p> Might I have my choice I had rather be, or be thought the worst of those Creatures above nam'd than a <hi>Parasite.</hi> For in them (if any thing be, yet) no<g ref="char:EOLhyphen"/>thing is culpable but what is natural, which they can<g ref="char:EOLhyphen"/>not help: but a <hi>Parasite</hi> is a <hi>voluntary</hi> piece of monstro<g ref="char:EOLhyphen"/>sity; a Monster of his own making; His own parent and product.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Nat. hist.</hi> l. 2. <hi>Noct. Attic.</hi> 9.4.</note>
+               <hi>Pliny</hi> and <hi>Gellius,</hi> out of the anci<g ref="char:EOLhyphen"/>ent Greek Authors, tell us of some Fa<g ref="char:EOLhyphen"/>milies in <hi>Africa,</hi> who had a faculty of <hi>be<g ref="char:EOLhyphen"/>witching</hi> with their tongues. Whatever it was which they spake in praise of, never prosper'd; whether trees, corn, children, horses, cattel, or any thing else which was worthy of commendation in its kind. As great and bad <hi>Witches</hi> are <hi>Flatterers.</hi> They kill and destroy by commending. So <hi>Ahab,</hi> we know, was flatter'd to death by his <hi>false Prophets,</hi> who applauded his purpose of commencing a War which cost him his Life. Now that any should love to be injur'd by this latter sort of <hi>Witches,</hi> is a greater wonder to me than that such as the former should indeed have been found.</p>
+            <p>For a <hi>Parasite</hi>'s Tongue (if St. <hi>Austin</hi> was a competent Judge,
+<note n="*" place="margin">
+                  <hi>Enarr. Psal.</hi> 59.</note>) is more mischievous than a <hi>Persecutor</hi>'s hand: And a great deal better, in his opi<g ref="char:EOLhyphen"/>nion, it is to be reprehended by any one, tho' never so much an Enemy, or inferior, than commended by such a one.</p>
+            <p>When a Whelp of that litter had fawn'd upon <hi>Sigis<g ref="char:EOLhyphen"/>mund</hi> the Emperor, and extol'd him above merit and measure; he received nothing but blows for a reward. Why dost thou beat me? O Emperor! said the <hi>Para<g ref="char:EOLhyphen"/>site:</hi> And why dost thou bite me? O Flatterer! said
+<pb n="29" facs="tcp:205870:17"/>the Emperor, with more reason. For of wild Beasts the <hi>Sycophant,</hi> of tame the <hi>Flatterer</hi> bites hardest, quoth <hi>Diogenes.</hi>
+            </p>
+            <p>What a happy World would there be, were the rest of this filthy Faculty so serv'd, and no otherwise paid for their pain!</p>
+            <p>Were those <hi>dirty Dogs</hi> driven away, there would shortly be room for <hi>Plain-dealing.</hi>
+            </p>
+            <p>A <hi>Flatterer</hi> would not then be taken for a <hi>Friend,</hi> no more than an Ape is thought to be a Man, though it look the most like him of any other <hi>Animal:</hi> nor should <hi>Tell-Troth</hi> be hated as an Enemy.</p>
+            <p>Briefly; The bitterest potion of Reprehension would rather be swallowed than the sweetest Poyson of Adu<g ref="char:EOLhyphen"/>lation, if all other men were of <hi>Sigismund</hi>'s mind, as, in this at least, I wish they were.</p>
+            <p>Whether I can live on herbs, like <hi>Diogenes,</hi> I know not; but am sure that my mind doth not serve me to flatter like <hi>Aristippus,</hi> however: And although I love peace and quietness as dearly as any Man, yet I see no cause to purchase their company by a <hi>sordid silence.</hi>
+            </p>
+            <p>I expect to be blamed for writing so freely.</p>
+            <p>My Answer to that, is, I wish there were no cause for so doing.</p>
+            <p>Some will be apt to tell me, that <hi>Socrates</hi> by follow<g ref="char:EOLhyphen"/>ing Truth too close at the heels got such a kick as had like to have cost him his life. Which made <hi>Plato</hi> the more wary of speaking his mind too freely.</p>
+            <p>To which I reply, that I am not insensible of the danger. <hi>Flattery gets Friends; Plain-Dealing</hi> makes <hi>Ene<g ref="char:EOLhyphen"/>mies.</hi> To <hi>reprove in the gate</hi> is the way to be hated, <hi>Amos</hi> 5.10. <hi>They hate him that rebuketh in the gate, and
+<pb n="30" facs="tcp:205870:18"/>they abhor him that speaketh uprightly.</hi> Briers and Thorns use to scratch; and the nature of wasps and nettles is to sting: But whatever <hi>Socrates</hi> suffer'd, or how crafty soever <hi>Plato</hi> was to keep out of harms way, <hi>Diogenes</hi> was and would be <hi>Diogenes</hi> to his dying day.</p>
+            <p>It is not the property of good blood, as they say, to bely it self. Sordid fear is worse than Death; and if every one should shun the ungrateful <hi>Office</hi> of rebu<g ref="char:EOLhyphen"/>king in the gate, when would the <hi>Mouth of Iniquity be stopped? or what hope would be left for the poor?</hi> Job. 5.16.</p>
+            <p>I know not whether I shall be put to the trouble likewise of answering for defending the Cause of <hi>Plain<g ref="char:EOLhyphen"/>dealing</hi> no better. But if that be expected too,</p>
+            <p n="1">1. What wonder is it that some <hi>wry stitches</hi> are made in a work patch'd up in haste, and often interrupted by more importunate business?</p>
+            <q>Pluribus intensus minor est ad singula sensos.</q>
+            <p n="2">2. In the noise of <hi>Axes</hi> and <hi>Hammers</hi> it is hard for the best <hi>Musitian</hi> to tune his Lute, Harp, or whatever other Instrument he delights in.</p>
+            <p n="3">3. Tho' abundance of humane writings are subject to that just censure which <hi>Clemens</hi> of <hi>Alexandria</hi>
+               <note n="†" place="bottom">
+                  <hi>Serom. l.</hi> 1. <hi>p.</hi> 272.</note> hath passed on the <hi>Greek</hi> Philosophy, <hi>Having shells to be thrown away as well as kernels to be eaten;</hi> and are too often found to be but a mixture of good and bad, a heap of precious and common things met together: yet <hi>Pliny</hi> the elder (as his Nephew relates
+<note n="*" place="margin">
+                  <hi>Epist. lib.</hi> 3. <hi>Ep.</hi> 5.</note>) was wont to say, <hi>Nullum esse Librum tam malum qui non aliqua parte prodesset,</hi> That no Book
+<pb n="31" facs="tcp:205870:18"/>was so <hi>bad</hi> but some <hi>good</hi> might be gotten by read<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>If in this which I have written there is nothing <hi>at all</hi> worth the Reader's <hi>While,</hi> let him grant me his <hi>Pardon</hi> for this first offence, and I will give him <hi>Se<g ref="char:EOLhyphen"/>curity</hi> never again to abuse the <hi>Press</hi> or his <hi>Patience</hi> whilst I live.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I Am not out of Hope, dear Reader! (as, if thou deservest to be styled impartial) I can hardly for<g ref="char:EOLhyphen"/>bear to call thee; since <hi>Partiality</hi> and <hi>Double-dealing</hi> so much abound in all places, that <hi>Plain-dealing,</hi> though a <hi>Jewel,</hi> is rarely to be found: yet I am not without hope, I say, that <hi>Truth, Honesty,</hi> and <hi>Justice</hi> have here and there Friends, who will not be ashamed to shew their Faces, nor open their Mouths in de<g ref="char:EOLhyphen"/>fence of that inestimable Jewel, as the Proverb con<g ref="char:EOLhyphen"/>fesses it to be, which for many years hath been so scarce.</p>
+            <p>If any of this too small number chance to peruse this Paper, I make no doubt of their doing me right in my undertaking. From the rest I know not what to look for: but fear not their <hi>Censures</hi> who are more concern'd for <hi>Persons</hi> than <hi>Causes;</hi> nor desire such fa<g ref="char:EOLhyphen"/>vour as none can obtain who loves not to <hi>flatter.</hi> At which dear rate if any think fit to <hi>purchase</hi> Friends, I shall rather pity than envy their <hi>happiness,</hi> (as the most
+<pb n="32" facs="tcp:205870:19"/>are apt to miscall it;) being certainly sure that no<g ref="char:EOLhyphen"/>thing is worth the <hi>having</hi> or <hi>keeping</hi> but what is <hi>fair<g ref="char:EOLhyphen"/>ly</hi> and <hi>honestly</hi> gotten.</p>
+            <p>When <hi>Solon</hi> was asked, what sort of Government he judged most durable? <hi>That,</hi> said he, <hi>under which every one takes anothers Wrong as his own.</hi> (For in this, as well as otherwise, the Members of the Natural and Civil Body agree, that both are preserved by Sympa<g ref="char:EOLhyphen"/>thy. Being quickned by the same Soul, and actuated by the same Spirit, their care is to help, and not hurt each other.) Which wise Resolution of the Question, so grave an Author as <hi>Plutarch</hi> having spoken in praise of, why should any man be spoken against, who in labouring to do himself right, is all the while striving to keep others from wrong?</p>
+            <p>I would only thus far apologize for the matter and manner of writing, That I do not point at or intend any particular Person or Persons, but all the whole Herd of such Cattel as are within named, whosoever and wheresoever; into whose hands if it fall, let them take it amongst them, and much good may it do them, for they have it with a good will. I will say no more, but that I desire, and, by Gods help, intend to live and dye, <hi>(Kind Reader,)</hi> the Truth's and thy firm Friend.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205870:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
